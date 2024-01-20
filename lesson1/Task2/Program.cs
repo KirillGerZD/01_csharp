@@ -24,3 +24,11 @@ Console.WriteLine(quotion);
 d1 = 6;
 double quotion2 = i1 / d1;
 Console.WriteLine(quotion2);
+
+
+int a = 5;
+int b = 6; 
+int c = 7;
+int d = 8;
+int formul = ( a * b) / (c + d);
+Console.WriteLine(formul);
